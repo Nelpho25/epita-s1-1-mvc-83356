@@ -4,6 +4,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="Library.Domain/Library.Domain.csproj" Id="58d8b42d-9f57-4715-aacf-058d5ae734a7" />
   <Project Path="Library.MVC/Library.MVC.csproj" />
   <Project Path="Library.Tests/Library.Tests.csproj" />
 </Solution>
